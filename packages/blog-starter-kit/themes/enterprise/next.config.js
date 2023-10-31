@@ -40,6 +40,14 @@ const config = {
 				source: '/api/collect',
 				destination: `${ADVANCED_ANALYTICS_BASE_URL}/api/collect`,
 			},
+			// {
+      //   source: "/blog",
+      //   destination: "https://neuron.autos/blog",
+      // },
+      // {
+      //   source: "/blog/:path*",
+      //   destination: "https://neuron.autos/blog/:path*",
+      // },
 		];
 	},
 };

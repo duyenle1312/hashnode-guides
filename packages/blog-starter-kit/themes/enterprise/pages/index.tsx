@@ -185,7 +185,7 @@ export default function Index({ publication, initialAllPosts, initialPageInfo }:
 						</>
 					)}
 				</Container>
-				<Footer />
+				{/* <Footer /> */}
 			</Layout>
 		</AppProvider>
 	);
